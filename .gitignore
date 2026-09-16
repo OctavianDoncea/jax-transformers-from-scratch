@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+scratch/
+# Project-specific
+.venv/
+scratch/
+wandb/
+checkpoints/
+*.jsonl
+data/

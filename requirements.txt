@@ -1,0 +1,7 @@
+flax==0.12.9
+jax==0.11.1
+jaxlib==0.11.1
+numpy==2.5.3
+optax==0.2.8
+wandb==0.30.0
+pytest
